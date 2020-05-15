@@ -50,7 +50,7 @@ const PrevImage=()=>
   return (
 <div align='center'>
 <div class="text-center">
-  <img src={imageURL}   className="rounded m-2" alt="..." />
+  <img src={imageURL}   className="image" alt="Loading.." />
 </div>
 <button onClick={PrevImage} className='btn btn-danger m-2'>Prev Image</button>
   <button onClick={nextImage} className='btn btn-primary m-2'>Generate Random</button>
