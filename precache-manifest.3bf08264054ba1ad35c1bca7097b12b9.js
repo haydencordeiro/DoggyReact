@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb732bdd7016f6e5a4b2b7c9f325387c",
+    "revision": "1960c864757450e416f2e0b52611e9cc",
     "url": "/DoggyReact/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DoggyReact/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "90e127b3cbc087c84a70",
-    "url": "/DoggyReact/static/css/main.3376d688.chunk.css"
+    "revision": "f1e290a8ec47e6c4b858",
+    "url": "/DoggyReact/static/css/main.c0882daa.chunk.css"
   },
   {
     "revision": "a08707ab1e6a47a9a217",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DoggyReact/static/js/2.fdadf157.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "90e127b3cbc087c84a70",
-    "url": "/DoggyReact/static/js/main.0b1610d1.chunk.js"
+    "revision": "f1e290a8ec47e6c4b858",
+    "url": "/DoggyReact/static/js/main.6a6d3e84.chunk.js"
   },
   {
     "revision": "8c0f3b457244607db53e",
