@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DoggyReact/static/css/main.c0882daa.chunk.css",
+    "main.css": "/DoggyReact/static/css/main.3afa4a5d.chunk.css",
     "main.js": "/DoggyReact/static/js/main.6a6d3e84.chunk.js",
     "main.js.map": "/DoggyReact/static/js/main.6a6d3e84.chunk.js.map",
     "runtime-main.js": "/DoggyReact/static/js/runtime-main.a9554ffa.js",
@@ -9,17 +9,17 @@
     "static/js/2.fdadf157.chunk.js": "/DoggyReact/static/js/2.fdadf157.chunk.js",
     "static/js/2.fdadf157.chunk.js.map": "/DoggyReact/static/js/2.fdadf157.chunk.js.map",
     "index.html": "/DoggyReact/index.html",
-    "precache-manifest.3bf08264054ba1ad35c1bca7097b12b9.js": "/DoggyReact/precache-manifest.3bf08264054ba1ad35c1bca7097b12b9.js",
+    "precache-manifest.f3c73cd5c3f50c7a295b07892317da11.js": "/DoggyReact/precache-manifest.f3c73cd5c3f50c7a295b07892317da11.js",
     "service-worker.js": "/DoggyReact/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/DoggyReact/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.c0882daa.chunk.css.map": "/DoggyReact/static/css/main.c0882daa.chunk.css.map",
+    "static/css/main.3afa4a5d.chunk.css.map": "/DoggyReact/static/css/main.3afa4a5d.chunk.css.map",
     "static/js/2.fdadf157.chunk.js.LICENSE.txt": "/DoggyReact/static/js/2.fdadf157.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a9554ffa.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.fdadf157.chunk.js",
-    "static/css/main.c0882daa.chunk.css",
+    "static/css/main.3afa4a5d.chunk.css",
     "static/js/main.6a6d3e84.chunk.js"
   ]
 }
